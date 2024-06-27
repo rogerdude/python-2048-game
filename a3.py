@@ -3,10 +3,6 @@ from tkinter import messagebox
 from typing import Optional
 from a3_support import *
 
-# Author = Hamza Khurram
-# Email address = h.khurram@uqconnect.edu.au
-# Due date = 26 October 2022
-
 class Model():
     """
     Sets the gameplay for the game using a list of lists (matrix),
